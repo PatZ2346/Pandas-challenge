@@ -76,11 +76,7 @@ School performance is broken down based on school type. The following metrics ar
 - % overall passing
 
 ### Observable Trends ###
+- Trend 1: Charter Schools’ Performance: Charter schools tend to have higher percentages of students passing both maths and reading compared to district schools. For example, Cabrera High School, a charter school, has a high overall passing percentage of 91.33%, while Bailey High School, a district school, has an overall passing percentage of 54.64%.
+- Trend 2: Impact of School Size on Performance: Smaller schools generally show higher overall passing percentages compared to larger schools. For instance, Holden High School, with 427 students, has an overall passing percentage of 89.23%, whereas larger schools like Bailey High School, with 4976 students, have a lower overall passing percentage of 54.64%.
 
-1. **Charter Schools’ Performance:**
-   Charter schools tend to have higher percentages of students passing both maths and reading compared to district schools. For example, Cabrera High School, a charter school, has a high overall passing percentage of 91.33%, while Bailey High School, a district school, has an overall passing percentage of 54.64%.
-
-2. **Impact of School Size on Performance:**
-   Smaller schools generally show higher overall passing percentages compared to larger schools. For instance, Holden High School, with 427 students, has an overall passing percentage of 89.23%, whereas larger schools like Bailey High School, with 4976 students, have a lower overall passing percentage of 54.64%.
-
-These trends suggest that school type and size may play a significant role in student performance.
+**These trends suggest that school type and size may play a significant role in student performance.**
